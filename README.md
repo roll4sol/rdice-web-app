@@ -1,7 +1,3 @@
-This README is designed to look professional for both users and potential investors, focusing on the technical stack and the "provably fair" nature of the project. It highlights the Solana/Anchor architecture while keeping the instructions clean.
-
----
-
 # Roll4Sol: Decentralized Peer-to-Peer Dice 🎲
 
 Roll4Sol is a high-performance, decentralized gaming protocol built on the **Solana** blockchain. Unlike traditional online casinos, Roll4Sol uses an on-chain, trustless vault system where players duel directly against each other. No house, no hidden logic—just pure code.
